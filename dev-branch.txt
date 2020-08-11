@@ -1,3 +1,0 @@
-dev-content
-
-news content
